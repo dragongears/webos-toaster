@@ -1,0 +1,10 @@
+{
+	"id":"com.palmdts.centurion",
+	"version":"1.0.0",
+	"vendor":"HP",
+	"type":"web",
+	"main":"index.html",
+	"icon":"icon.png",
+	"title":"Centurion",
+	"uiRevision":2
+}
